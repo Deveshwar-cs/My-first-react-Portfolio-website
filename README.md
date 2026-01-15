@@ -4,8 +4,7 @@ A personal portfolio website built using **React** and **Vite** to showcase my s
 
 ## 🚀 Demo
 
-Add your deployed project link here (e.g., GitHub Pages / Vercel / Netlify)  
-👉 https://your-deployed-url.com
+👉 https://first-eactportfolio.netlify.app/
 
 ## 💡 About
 
@@ -63,3 +62,25 @@ npm run dev
 4. Open http://localhost:3000
  (or the address shown in your terminal) to see your app
 ```
+
+Customize
+
+Make the portfolio your own by editing the relevant content in:
+
+🧾 src/components – Reusable UI sections
+
+📄 src/pages – Page components (About, Projects, Contact)
+
+🖼️ public – Images and static assets
+
+Update texts, images, colors, and links to reflect your personal brand.
+
+Contributing
+
+This is my personal project, but feel free to:
+
+⭐ Star the repo if you find it useful
+
+📝 Open an issue if you spot something
+
+💡 Suggest improvements
